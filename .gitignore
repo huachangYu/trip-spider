@@ -1,0 +1,6 @@
+*.zip
+.idea
+data*
+*.json
+pics
+sites
